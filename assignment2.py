@@ -66,7 +66,7 @@ txt= "I would like to watch \r'Bahubali' movie tonight"
 print(txt)
 
 txt = "I would like to watch \t'Bahubali' movie tonight"
-print(txt)
+print(x)
 
 
 
